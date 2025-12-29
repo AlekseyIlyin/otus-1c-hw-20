@@ -17,8 +17,6 @@
 			<Picture/>
 			<Content/>
 		</Properties>
-		<ChildObjects>
-			<Subsystem>ОбработчикиСобытий</Subsystem>
-		</ChildObjects>
+		<ChildObjects/>
 	</Subsystem>
 </MetaDataObject>

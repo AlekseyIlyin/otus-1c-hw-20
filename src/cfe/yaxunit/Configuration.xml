@@ -210,7 +210,6 @@
 			<CommonModule>ЮТЧитательСлужебныйВызовСервера</CommonModule>
 			<CommonModule>ЮТЧитательСлужебныйКлиент</CommonModule>
 			<CommonModule>ОМ_ПриходРасходТовара</CommonModule>
-			<CommonModule>ОМ_ИсполнениеТестов</CommonModule>
 			<DataProcessor>ЮТHTTPServiceRequest</DataProcessor>
 			<DataProcessor>ЮТHTTPОтвет</DataProcessor>
 			<DataProcessor>ЮТHTTPСервисЗапрос</DataProcessor>
